@@ -1,10 +1,10 @@
 # Introduction to LangGraph - exercises
 
-In this repo you can find some exercises to practisea long the course [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) by LangChain.
+In this repo you can find some exercises to practise along the course [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) by LangChain.
 
 The goal of them is to make you think and really process their concepts, rather than just copy and paste code from their Jupyter notebooks. 
 
-You can find two folders:
+You can find two folders here:
 - [unsolved](unsolved) has the original exercises, with no response to them.
 - You can see how I made each part in the [solved](solved) folders, just in case you need some help ;) .
 
